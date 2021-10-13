@@ -15,5 +15,9 @@ Or to make controller `adonis make:controller User --type http`
   web   (Traditional web application with server rendered templates)
   slim  (A smallest possible AdonisJS application)
 
+
 select api yes to all
   
+`cd hello-world`
+`node ace serve --watch`
+
