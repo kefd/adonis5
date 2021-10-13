@@ -5,4 +5,4 @@ Create Model && Controller for User
 
 Or to make controller `adonis make:controller User --type http`
 
-`npm i @adonisjs/auth@alpha`
+`yarn add @adonisjs/auth`
